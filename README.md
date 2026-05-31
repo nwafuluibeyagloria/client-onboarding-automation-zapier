@@ -1,4 +1,4 @@
-<img width="16384" height="6587" alt="Autopilot email support" src="https://github.com/user-attachments/assets/a73bd75e-63c4-4c4b-8247-52c9c140d93d" /># client-onboarding-automation-zapier
+# client-onboarding-automation with Zapier
 An automated client onboarding workflow built with **Zapier** triggers, CRM entry, welcome emails, scheduling & team notifications. No-code automation that saves 3–5 hrs per client.
 ## What This Automation Does
 - Triggers when a new client fills out an intake form
@@ -23,4 +23,5 @@ An automated client onboarding workflow built with **Zapier** triggers, CRM entr
  ## Demo
  >[Watch the full workflow demo](https://www.loom.com/share/6a3a23c2e426438fbdc439dc2e6518ea)
 ## Autopilot Email Support Workflow
-![](Uploading Autopilot email support.png…)
+![](<img width="16384" height="6587" alt="Autopilot email support" src="https://github.com/user-attachments/assets/02576375-39c1-4325-bfd6-18af1b9fb2c7" />
+)

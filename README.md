@@ -3,7 +3,7 @@ An automated client onboarding workflow built with **Zapier** triggers, CRM entr
 ## What This Automation Does
 - Triggers when a new client fills out an intake form
 - Automatically sends a personalised welcome email
-- Create a client record in CRM, such as HubSpot, Airtable, Google Sheets, AppScript.
+- Create a client record in CRM, such as HubSpot, Airtable, Google Sheets, or AppScript.
 - Schedules an onboarding call via Calendly.
 - Send follow-up reminders at key intervals.
 - Notifies the internal team via Slack or Email.
@@ -23,5 +23,7 @@ An automated client onboarding workflow built with **Zapier** triggers, CRM entr
  ## Demo
  >[Watch the full workflow demo](https://www.loom.com/share/6a3a23c2e426438fbdc439dc2e6518ea)
 ## Autopilot Email Support Workflow
-![](<img width="16384" height="6587" alt="Autopilot email support" src="https://github.com/user-attachments/assets/02576375-39c1-4325-bfd6-18af1b9fb2c7" />
+> ![](<img width="16384" height="6587" alt="Autopilotemailsupport" src="https://github.com/user-attachments/assets/87461290-c48b-4972-8c31-363915beac85" />
 )
+
+

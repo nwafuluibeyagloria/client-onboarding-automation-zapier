@@ -1,5 +1,5 @@
 # client-onboarding-automation-zapier
-An automated client onboarding workflow built with **Zapier** that eliminates manual tasks, reduces onboarding time, and delivers a seamless experience for new clients from first contact to fully set up.
+An automated client onboarding workflow built with **Zapier** triggers, CRM entry, welcome emails, scheduling & team notifications. No-code automation that saves 3–5 hrs per client.
 ## What This Automation Does
 - Triggers when a new client fills out an intake form
 - Automatically sends a personalised welcome email

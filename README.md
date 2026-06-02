@@ -61,7 +61,18 @@ all without manual work.
 |----------------------- |-----------------------------------------------------  |
 | **Google Forms**       | Captures new client form submission (trigger)         |
 | **Formatter by Zapier**| Cleans and formats the raw form text                  |
-|  **Code by Zapier**    | Runs custom JS logic to process and classify the data |
+| **Code by Zapier**     | Runs custom logic to process and classify the data    |
+| **Google Sheets**      | Creates a new spreadsheet row to log the submission   |
+
+##  Step 2 — Request Classification (Step 5)
+
+ **Path**
+ **Request Type** — Splits the workflow into 3 smart branches:
+|----------------------------------|----------------------------------------------------------|
+| **Complaint**                    | Handles client complaints with urgency detection         |
+| **Feature Request**              | Logs and processes new feature requests                  |
+| **General Inquiry**              | Routes general questions to the right response           |
+
 
 
 

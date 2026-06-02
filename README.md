@@ -66,12 +66,12 @@ all without manual work.
 
 ##  Step 2 — Request Classification (Step 5)
 
- **Path**
- **Request Type** — Splits the workflow into 3 smart branches:
-|--------------------------------- |--------------------------------------------------------- |
-| **Complaint**                    | Handles client complaints with urgency detection         |
-| **Feature Request**              | Logs and processes new feature requests                  |
-| **General Inquiry**              | Routes general questions to the right response           |
+ ## Path
+ ## Request Type — Splits the workflow into 3 smart branches
+|-------------------------- |--------------------------------------------------------- |
+| **Complaint**             | Handles client complaints with urgency detection         |
+| **Feature Request**       | Logs and processes new feature requests                  |
+| **General Inquiry**       | Routes general questions to the right response           |
 
 
 

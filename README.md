@@ -41,8 +41,28 @@ for new clients.
  >[Watch the full workflow demo](https://www.loom.com/share/6a3a23c2e426438fbdc439dc2e6518ea)
 
 ---
-## Autopilot Email Support Workflow
+## Client Onboarding Automation Workflow
 ---
 <img width="16384" height="6587" alt="AutopilotEmailSupport" src="https://github.com/user-attachments/assets/6093b3ac-9133-4e7f-9376-5a9cd6dad974" />
+
+## Project Overview
+---
+A fully automated, multi-path client onboarding system built with 
+**Zapier**, **Google Apps Script**, and **Google Workspace**. The workflow intelligently 
+classifies incoming client requests and routes them through customized handling paths, 
+all without manual work.
+
+## Step-by-Step on How the Workflow Works
+---
+
+## Step 1 — Intake & Processing (Steps 1–4)
+
+|  STEP                  |          PROCESS                                      |
+|----------------------- |-----------------------------------------------------  |
+| **Google Forms**       | Captures new client form submission (trigger)         |
+| **Formatter by Zapier**| Cleans and formats the raw form text                  |
+|  **Code by Zapier**    | Runs custom JS logic to process and classify the data |
+
+
 
 

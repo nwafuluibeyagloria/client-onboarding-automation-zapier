@@ -69,7 +69,7 @@ all without manual work.
  ## Path
  ## Request Type — Splits the workflow into 3 branches
 
-| PATH TYPE                 |             PURPOSE                                  |  
+|  PATH TYPE                |      PURPOSE                                         |  
 |-------------------------- |----------------------------------------------------  |
 | **Complaint**             | Handles client complaints with urgency detection     |
 | **Feature Request**       | Logs and processes new feature requests              |

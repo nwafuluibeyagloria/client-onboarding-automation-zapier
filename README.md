@@ -78,15 +78,21 @@ all without manual work.
 ### Step 3 — Complaint Handling (Steps 6–14)
 
 **Path conditions** — Confirms complaint type
-**Path — Urgency** — Detects urgency level and splits into three
+**Path Urgency** — Detects urgency level and splits into three
 1. High Urgency
 2. Medium Urgency
 3. Low Urgency
 
-High Urgency - Checks routing schedule (Yes/No path)
+**High Urgency** 
+- Checks routing schedule (Yes/No path)
 
-**Yes** Runs JavaScript → Creates Google Calendar event → Calls Sub-Zap
-       → Logs data in Google Sheets
+**Yes** 
+- Runs JavaScript
+- Creates Google Calendar event
+- Calls Sub-Zap
+- Logs data in Google Sheets
        
-**No** Calls Sub-Zap → Logs data in Google Sheets      
+**No**
+- Calls Sub-Zap
+- Logs data in Google Sheets      
 

@@ -75,7 +75,7 @@ all without manual work.
 | **Feature Request**       | Logs and processes new feature requests              |
 | **General Inquiry**       | Routes general questions to the right response       |
 
-### Step 3 — Complaint Handling (Steps 6–14)
+## Step 3 — Complaint Handling (Steps 6–14)
 
 **Path conditions**
 - Confirms complaint type
@@ -92,11 +92,29 @@ all without manual work.
 
 **Yes** 
 - Runs JavaScript
-- Creates Google Calendar event
+- Creates a Google Calendar event
 - Calls Sub-Zap
 - Logs data in Google Sheets
        
 **No**
 - Calls Sub-Zap
-- Logs data in Google Sheets      
+- Logs data in Google Sheets
+
+**Medium Urgency**
+- Calls Sub-Zap
+- Logs complaint data in Google Sheets
+
+**Low Urgency**
+- Calls Sub-Zap
+- Logs complaint data in Google Sheets
+
+## Step 4 — Feature Request Handling (Steps 24–26)
+
+|    PATH                            |     FEATURES                                      |
+|---------------------------------   |---------------------------------------------------|
+| **Path conditions**                | Confirms general inquiry                          |
+| **Sub-Zap**                        | Calls dedicated sub-zap for general inquiries     |
+| **Google Sheets**                  | Stores inquiry data                               |
+
+
 

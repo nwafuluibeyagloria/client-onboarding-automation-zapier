@@ -24,16 +24,21 @@ for new clients.
  
 ---
 
-  |TOOL                    |        ROLE                       |
-  |--------------------    | ---------------------------       |
-  |**Zapier**              | Automation backbone               |
-  |**Google form**         | Client intake trigger             |
-  |**Gmail**               | Automated email delivery          |
-  |**Google sheet**        | Client database                   |
-  |**Calendly**            | Onboarding call scheduling        |
-  |**Slack**               | Internal team notiifications      |
-  |**Google Drive**        | Client folder creation            |
-  |**Google Apps Script**  | custom script for data processing |
+  |TOOL                    |        ROLE                                   |
+  |--------------------    | ---------------------------------------       |
+  |**Zapier**              | Automation backbone                           |
+  |**Google form**         | Client intake trigger                         |
+  |**Gmail**               | Automated email delivery                      |
+  |**Google sheet**        | Client database                               |
+  |**Calendly**            | Onboarding call scheduling                    |
+  |**Slack**               | Internal team notiifications                  |
+  |**Google Drive**        | Client folder creation                        |
+  |**Google Apps Script**  | Custom script for data processing             |
+  |**Code by Zapier**      | Custom JavaScript for data classification     |
+  |**Zapier Sub-Zaps**     | Workflows for each request type               |
+  |**Formatter by Zapier** | Text cleaning and formatting                  |
+  |**Path by Zapier**      | Conditional logic and smart branching         |
+  
   ---
 
 
@@ -115,6 +120,7 @@ all without manual work.
 | **Path conditions**                | Confirms general inquiry                          |
 | **Sub-Zap**                        | Calls dedicated sub-zap for general inquiries     |
 | **Google Sheets**                  | Stores inquiry data                               |
+
 
 
 

@@ -121,6 +121,24 @@ all without manual work.
 | **Sub-Zap**                        | Calls dedicated sub-zap for general inquiries     |
 | **Google Sheets**                  | Stores inquiry data                               |
 
+## Step 5 — General Inquiry Handling (Steps 27–29)
+
+|  PATH                              |    FEATURES                                      |
+|----------------------------------  |-----------------------------------------------   |
+| **Path conditions**                |  Confirms general inquiry                        |
+| **Sub-Zap**                        |  Calls dedicated sub-zap for general inquiries   |
+| **Google Sheets**                  |  Stores inquiry data                             |
+
+## Business Impact
+---
+- Saves **5–8 hours per week** in manual email triage and response
+- Every submission is captured and classified
+- High-urgency issues are escalated automatically with a calendar event
+- Clean data trail in Google Sheets for reporting and follow-up
+- Add new request types without rebuilding the system
+
+
+
 
 
 
